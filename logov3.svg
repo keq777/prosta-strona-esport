@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="240.0px"
+   height="240.0px"
+   viewBox="0 0 240.0 240.0"
+   version="1.1"
+   id="SVGRoot"
+   sodipodi:docname="logov3.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview11178"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="px"
+     showgrid="true"
+     inkscape:zoom="0.914906"
+     inkscape:cx="396.76207"
+     inkscape:cy="237.18284"
+     inkscape:window-width="2560"
+     inkscape:window-height="1377"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid11184" />
+  </sodipodi:namedview>
+  <defs
+     id="defs11173">
+    <rect
+       x="342.65814"
+       y="406.59915"
+       width="74.871078"
+       height="24.046186"
+       id="rect2135" />
+    <rect
+       x="178.16039"
+       y="439.3894"
+       width="442.66843"
+       height="256.85699"
+       id="rect406" />
+    <rect
+       x="271.61261"
+       y="394.57605"
+       width="81.975632"
+       height="36.069279"
+       id="rect2129" />
+    <rect
+       x="323.53049"
+       y="592.95709"
+       width="85.254662"
+       height="38.255295"
+       id="rect2141" />
+    <rect
+       x="184.17194"
+       y="548.69025"
+       width="121.87044"
+       height="33.336758"
+       id="rect2147" />
+    <rect
+       x="253.57796"
+       y="623.01483"
+       width="122.96345"
+       height="32.790253"
+       id="rect2153" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5935"
+       id="linearGradient5941"
+       x1="41.685577"
+       y1="96.756409"
+       x2="126.50025"
+       y2="96.756409"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5935">
+      <stop
+         style="stop-color:#0013d5;stop-opacity:1;"
+         offset="0"
+         id="stop5931" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop5933" />
+    </linearGradient>
+    <rect
+       x="265.05453"
+       y="393.48303"
+       width="150.28867"
+       height="43.173836"
+       id="rect2159" />
+  </defs>
+  <g
+     inkscape:label="Warstwa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <ellipse
+       style="fill:#800000;stroke-width:0.52982"
+       id="path63"
+       cx="119.14981"
+       cy="121.649"
+       rx="118.60181"
+       ry="118.24946" />
+    <text
+       xml:space="preserve"
+       transform="matrix(-0.10306247,-0.51176188,0.52050349,-0.10133158,-122.62524,334.56367)"
+       id="text2157"
+       style="font-weight:bold;font-size:18.6667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;white-space:pre;shape-inside:url(#rect2159);display:inline;fill:#000000"><tspan
+         x="318.84449"
+         y="410.46679"
+         id="tspan12593">1980</tspan></text>
+    <path
+       sodipodi:type="spiral"
+       style="fill:url(#linearGradient5941);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583"
+       id="path1131"
+       sodipodi:cx="80.106133"
+       sodipodi:cy="93.119766"
+       sodipodi:expansion="1"
+       sodipodi:revolution="3.1194909"
+       sodipodi:radius="50.017429"
+       sodipodi:argument="-18.166365"
+       sodipodi:t0="0.012606351"
+       d="m 80.482948,93.625323 c 0.994833,2.364336 -2.68036,2.91163 -4.096305,2.266753 -3.750967,-1.708337 -3.607136,-6.826245 -1.448314,-9.705733 3.69464,-4.927999 11.032195,-4.472919 15.31516,-0.629875 6.165485,5.532204 5.368596,15.288282 -0.188564,20.924592 -7.326654,7.431 -19.563531,6.27804 -26.534015,-1.00701 -8.710397,-9.103479 -7.194859,-23.848305 1.825441,-32.143439 10.871503,-9.997515 28.13857,-8.116011 37.752869,2.64388 11.28934,12.634514 9.03992,32.432299 -3.462317,43.362299 -14.394414,12.58422 -36.728359,9.96568 -48.971725,-4.28076 C 36.793961,98.903783 39.782431,74.029963 55.774374,60.474878 73.683017,45.29516 101.09936,48.654115 115.96495,66.392513 c 16.47934,19.663997 12.7495,49.624817 -6.73607,65.800007 -6.39735,5.31052 -14.135413,8.92555 -22.300602,10.47724"
+       transform="matrix(2.6279093,0,0,2.5212324,-93.644904,-119.68749)"
+       inkscape:label="path1131" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.36859187,-0.37527781,0.38168809,0.36240154,-213.85711,43.857602)"
+       id="text2151"
+       style="font-weight:bold;font-size:18.6667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;white-space:pre;shape-inside:url(#rect2153);display:inline;fill:#000000"><tspan
+         x="293.70485"
+         y="639.99999"
+         id="tspan12595">1970</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.14981287,0.50047173,-0.5090205,0.14729683,256.93531,-94.76614)"
+       id="text2145"
+       style="font-weight:bold;font-size:18.6667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;white-space:pre;shape-inside:url(#rect2147);display:inline;fill:#000000"><tspan
+         x="223.7527"
+         y="565.67382"
+         id="tspan12597">2020</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;white-space:pre;inline-size:22.3937;display:inline;fill:#000000;stroke-width:0.264583"
+       x="85.745369"
+       y="103.24148"
+       id="text2125"
+       transform="matrix(1.6447743,1.1281402,-1.1474105,1.6171511,142.63963,-203.96036)"><tspan
+         x="85.745369"
+         y="103.24148"
+         id="tspan12599">1990</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.50348202,-0.16467333,0.16748619,0.49502627,-135.2148,-41.101599)"
+       id="text2139"
+       style="font-weight:bold;font-size:18.6667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;white-space:pre;shape-inside:url(#rect2141);display:inline;fill:#000000"
+       inkscape:transform-center-x="0.15343885"
+       inkscape:transform-center-y="-0.075431677"><tspan
+         x="344.80348"
+         y="609.9414"
+         id="tspan12601">2010</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.47142319,-0.24618764,0.25809665,0.44967093,-150.23617,-18.294567)"
+       id="text2127"
+       style="font-weight:bold;font-size:18.6667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;white-space:pre;shape-inside:url(#rect2129);display:inline;fill:#000000"><tspan
+         x="291.24586"
+         y="411.56054"
+         id="tspan12603">1960</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.53060886,0,0,0.52169752,-95.145404,-145.14268)"
+       id="text404"
+       style="font-weight:bold;font-size:74.6667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;white-space:pre;shape-inside:url(#rect406);shape-padding:1.09301;display:inline;fill:#000000;fill-opacity:1"><tspan
+         x="246.57769"
+         y="508.4198"
+         id="tspan12607"><tspan
+           style="fill:#b3b3b3"
+           id="tspan12605">E-SPORT
+</tspan></tspan><tspan
+         x="237.31904"
+         y="601.75318"
+         id="tspan12611"><tspan
+           style="fill:#b3b3b3"
+           id="tspan12609">HISTORY</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.17340991,-0.49560931,0.4805721,0.1144328,-65.302547,281.46229)"
+       id="text2133"
+       style="font-weight:bold;font-size:18.6667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;white-space:pre;shape-inside:url(#rect2135);display:inline;fill:#000000"><tspan
+         x="358.73903"
+         y="423.58398"
+         id="tspan12613">2000</tspan></text>
+  </g>
+</svg>
